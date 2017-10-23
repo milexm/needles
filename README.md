@@ -7,4 +7,6 @@ which uses a hash map to improve execution speed.
 
 ## Runnig the Example
 Create a runnable JAR. In the directory where you stored the file, from the command console, run the following command:
-  java -jar needles.jar
+``` Java
+java -jar needles.jar
+```
